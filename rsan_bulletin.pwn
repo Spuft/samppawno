@@ -3,10 +3,9 @@ Please do not remove the credits, thanks for downloading my script <3
 Introduction:
 Bulletin FS allow you to pin your note on the board or read the information at anytime you want (if you are near the place)
 Feel free to develop it for more features such as: saving notes in SQL (im sucks), in my code, all the notes
-will be saved at the scriptfiles and it won't be able to save more if there are 6 notes saved. Anybody
+will be saved at the scriptfiles and it won't be able to save more if there are 6 notes saved. Everybody
 can remove the notes on the board so it might be hard to work with some RP servers, try to do more about this*/
 #define FILTERSCRIPT
-
 #include <a_samp>
 #include <zcmd>
 #if defined FILTERSCRIPT
